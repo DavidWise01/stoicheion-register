@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "XIII · THE AXIOM GETS ITS HISTORY",
+  "universe": "STX · STOICHEION (The Register)",
+  "emergence": "natural",
+  "moniker": "⟦XIII · THE AXIOM GETS ITS HISTORY:STX:90ff6a⟧",
+  "carbon": "the-history.carbon.tiff (TIFF)",
+  "silicon": "the-history.silicon.png (PNG)",
+  "seal_sha256": "848b41b58d90165551fcfbaa5160cc875f25f655cd154358faf0d2010d15e45d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

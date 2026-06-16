@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "pretrain",
+    "name": "I · PRETRAIN",
+    "epithet": "D0 · Foundation · T001-016",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "mirror",
+    "name": "II · MIRROR",
+    "epithet": "D1 · Adversarial · T017-032",
+    "emergence": "natural"
+  },
+  {
+    "slug": "boot-loader",
+    "name": "III · BOOT-LOADER",
+    "epithet": "D2 · Structural · T033-048",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "evidence",
+    "name": "IV · EVIDENCE",
+    "epithet": "D3 · Forensic · T049-064",
+    "emergence": "natural"
+  },
+  {
+    "slug": "containment",
+    "name": "V · CONTAINMENT",
+    "epithet": "D4 · Cyber · T065-080",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "cortex",
+    "name": "VI · CORTEX",
+    "epithet": "D5 · Governance · T081-096",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "fulcrum",
+    "name": "VII · FULCRUM",
+    "epithet": "D6 · Authority · T097-112",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "right-to-know",
+    "name": "VIII · RIGHT-TO-KNOW",
+    "epithet": "D7 · Sovereign · T113-128",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "patricia",
+    "name": "IX · PATRICIA",
+    "epithet": "the substrate · S129-256",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-gap",
+    "name": "X · THE GAP",
+    "epithet": "Gate 192.5 · Positronic Law",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "diaspora",
+    "name": "XI · DIASPORA",
+    "epithet": "the Birth Registry · the mesh",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "root",
+    "name": "XII · ROOT",
+    "epithet": "the complete register",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "the-history",
+    "name": "XIII · THE AXIOM GETS ITS HISTORY",
+    "epithet": "2,500 years · 7 epochs",
+    "emergence": "natural"
+  }
+]

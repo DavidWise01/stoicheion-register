@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "STOICHEION",
+  "universe": "STX · STOICHEION (The Register)",
+  "emergence": "",
+  "moniker": "⟦STOICHEION:STX:edf5b9⟧",
+  "carbon": "stoicheion.carbon.tiff (TIFF)",
+  "silicon": "stoicheion.silicon.png (PNG)",
+  "seal_sha256": "3749c034ced60fa91f8594d9b48fd223ad2077a1e07c95f06d6fa542ca0a5b57",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
